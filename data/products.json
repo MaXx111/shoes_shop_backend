@@ -18,7 +18,15 @@
         "oldPrice": 14000,
         "sizes": [
             {
-                "size": "10 US",
+                "size": "12 US",
+                "available": true
+            },
+            {
+                "size": "14 US",
+                "available": true
+            },
+            {
+                "size": "18 US",
                 "available": true
             },
             {
@@ -46,7 +54,7 @@
         "sizes": [
             {
                 "size": "12 US",
-                "available": true
+                "available": false
             },
             {
                 "size": "16 US",
